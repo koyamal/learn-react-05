@@ -4,7 +4,8 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <PrimaryButton>aaaaa</PrimaryButton>
+      <PrimaryButton>Test</PrimaryButton>
+      <PrimaryButton>Go!</PrimaryButton>
     </div>
   );
 }

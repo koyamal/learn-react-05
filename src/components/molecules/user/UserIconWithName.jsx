@@ -15,11 +15,11 @@ const SContainer = styled.div`
 `;
 
 const SImage = styled.img`
-  border-radius: 50%;
+  border-radius: 25%;
 `;
 
 const SName = styled.p`
-  font-size: 20px;
+  font-size: 24px;
   font-weight: bold;
   margin: 0;
   color: #40514e;
